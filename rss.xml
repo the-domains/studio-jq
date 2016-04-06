@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Studio–JQ]]></title>
         <description><![CDATA[Studio–JQ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/studio-jq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 10:34:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 10:34:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studio-jq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Focus. Island 4.]]></title>
+            <description><![CDATA[<article><h1>Focus. Island 4.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bccf912c-3e24-4309-a980-1cc08916a724.jpg"></article>]]></description>
+            <link>https://thegrid.ai/studio-jq/focus-island-4/index.html</link>
+            <guid isPermaLink="false">e7c9f310-2910-4936-a7cf-0ec7bae354de</guid>
+            <pubDate>Wed, 06 Apr 2016 10:34:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a24c387-8d76-4c0e-958a-1d41848cccee.jpg">]]></description>
-            <link>undefinedbe-epic/index.html</link>
+            <link>https://thegrid.ai/studio-jq/be-epic/index.html</link>
             <guid isPermaLink="false">8199da68-65fb-4411-9e4d-27a08177bd7c</guid>
             <pubDate>Wed, 06 Apr 2016 10:34:00 GMT</pubDate>
         </item>
