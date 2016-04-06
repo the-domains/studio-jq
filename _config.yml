@@ -1,0 +1,28 @@
+name: Studio–JQ
+favicon: null
+layout_spectrum: 0.25453535187989473
+typography_spectrum: 0.24596724566072226
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6642969863023609
+  lightness: 0.24128576018847525
+  saturation: 0.31643135915510356
+  rhythmicContrast: 0.14619415788911283
+purpose: []
